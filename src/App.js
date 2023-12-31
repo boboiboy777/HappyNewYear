@@ -41,7 +41,9 @@ function App() {
                 "Selamat",
                 "Tahun",
                 "Baru",
-                "✨Happy New Year 2024✨",
+                "Cukup Tahun Aja yang baru",
+                "Aku Tetep Stay With You💛",
+                "Love You✨",
               ])
             }
           />
